@@ -1,0 +1,5 @@
+homepage: "https://www.icompetence.de/"
+documentation: "https://www.icompetence.de/blog/gtm-chartbeat"
+versions:
+  - sha: 11c004614f6b8f7cc999caabef521086116ce302
+    changeNotes: Initial release.
