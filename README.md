@@ -14,6 +14,5 @@ iCompetence GmbH (https://www.icompetence.de/).
 
 # Details
 
-Use this template to setup Chartbeat's web tracking. Configuration details can be found in [this article on
-iCompetence's site](https://www.icompetence.de/blog/gtm-chartbeat/). For general information regarding Chartbeat
-take a look at https://www.chartbeat.com/.
+Use this template to setup Chartbeat's web tracking. Configuration details can be found TBD. For general information
+regarding Chartbeat take a look at https://www.chartbeat.com/.
