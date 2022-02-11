@@ -14,5 +14,7 @@ iCompetence GmbH (https://www.icompetence.de/).
 
 # Details
 
-Use this template to setup Chartbeat's web tracking. Configuration details can be found TBD. For general information
-regarding Chartbeat take a look at https://www.chartbeat.com/.
+Use this template to setup Chartbeat's web tracking. Just enter your Chartbeat
+UID and the domain for a minimal configuration and you are good to go. Further
+information can by found in [TBD](https://www.icompetence.de/) (german). For
+general information regarding Chartbeat take a look at https://www.chartbeat.com/.
