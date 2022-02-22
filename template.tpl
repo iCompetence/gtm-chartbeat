@@ -4,11 +4,12 @@
   "type": "TAG",
   "id": "cvt_temp_public_id",
   "version": 1,
+  "categories": ["ANALYTICS"],
   "securityGroups": [],
   "displayName": "Chartbeat Web Tracking Tag",
   "brand": {
-    "id": "brand_dummy",
-    "displayName": "",
+    "id": "github-com-gtm-chartbeat",
+    "displayName": "Chartbeat",
     "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABI1BMVEUKmcwQnM0AAACHh4daWlpeXl5dXV1cXFx1dXWPj49sbGxqamqUlJShoaH////Y2NiJiYnZ2dnm5uZ2dnacnJxtbW1ubm5xcXEnpdEHlcoMmMyUlJRdXV1paWlycnIQnM2Hh4d1dXUzqdSPj49sbGx3d3eAgIBhYWFeXl5sbGz///////94eHhycnJdXV0Hl8uUlJR0dHTx8fGPj49fX194eHhzc3OPj49cXFyhoaFubm7///9nZ2eJiYnm5uZ2dnacnJyQkJBtbW1ubm51dXVdXV1xcXGJiYloaGgKmcwLmcwRnM2WlpZsbGxoaGiIiIhra2teXl5lZWUKmcxaWlpdXV1cXFwtp9Mup9NqampjY2MBlMpbW1tfX19tbW1xcXH////5GyL/AAAAUHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwJZKsNFcyKfG1G6MTn/u/oQoHy/wS8443BqEe4CAgHs53Br1WB/KOWK0faH5hpOoyMicNbjIXCWWa+kAAAABYktHRA5vvTBPAAAAB3RJTUUH5QwCDRkf+3QypQAAAM9JREFUGNNljmkjAlEYhV9Hd6YoorQosrdQZFdaKLKUvNOdK5rq//8LM3e+cb6d58NzDhEtAFgMCGGYwgyC0ulNIBTIZD/Z2to2l2g0ygHLO5LZVqx2Dfoa7yG8L9k6ODzKF1SRSqVjhL5Znbgm/JQrNJmc4kxy1es4B7TjwuHLCPxocGXb17qtYFWDG4dvo1jDuojFNbiTXBMbiaBRN5P+j3t2GsIQTW61ffDg/nrsdJ+m6tkDKaCn3KfM8gX0+vbu+fuDmTX/GLqz+JN/4Bd6kCQ3XuUelgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0xMi0wMlQxMzoyNToyOSswMDowMMT6p3UAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMTItMDJUMTM6MjU6MjkrMDA6MDC1px/JAAAAAElFTkSuQmCC"
   },
   "description": "Start your real-time analysis with this Chartbeat tag.",
